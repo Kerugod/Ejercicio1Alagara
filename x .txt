@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Kelvin Parte
 =======
 hola kelvin, soy claudia
->>>>>>> 6acf27872edcfb93db18fc3691185fb8801eb096
+
